@@ -1,0 +1,66 @@
+Linux was originally developed for personal computers based on the Intel x86 architecture, but has since been ported to more platforms than any other operating system.[20] Because of the dominance of Android on smartphones, Linux also has the largest installed base of all general-purpose operating systems.[21][22] Although it is used by only around 2.3 percent of desktop computers,[23][24] the Chromebook, which runs the Linux kernel-based Chrome OS, dominates the US K�12 education market and represents nearly 20 percent of sub-$300 notebook sales in the US.[25] Linux is the leading operating system on servers (over 96.4% of the top 1 million web servers' operating systems are Linux),[26] leads other big iron systems such as mainframe computers, and is the only OS used on TOP500 supercomputers (since November 2017, having gradually eliminated all competitors).[
+Linux also runs on embedded systems, i.e. devices whose operating system is typically built into the firmware and is highly tailored to the system. This includes routers, automation controls, smart home technology (like Google Nest),[30] televisions (Samsung and LG Smart TVs use Tizen and WebOS, respectively),[31][32][33] automobiles (for example, Tesla, Audi, Mercedes-Benz, Hyundai, and Toyota all rely on Linux),[34] digital video recorders, video game consoles, and smartwatches.[35] The Falcon 9's and the Dragon 2's avionics use a customized version of Linux.[36]
+Linux is one of the most prominent examples of free and open-source software collaboration. The source code may be used, modified and distributed commercially or non-commercially by anyone under the terms of its respective licenses, such as the GNU General Public License.[19]
+The Unix operating system was conceived and implemented in 1969, at AT&T's Bell Labs, in the United States by Ken Thompson, Dennis Ritchie, Douglas McIlroy, and Joe Ossanna.[37] First released in 1971, Unix was written entirely in assembly language, as was common practice at the time. In 1973 in a key, pioneering approach, it was rewritten in the C programming language by Dennis Ritchie (with the exception of some hardware and I/O routines). The availability of a high-level language implementation of Unix made its porting to different computer platforms easier.[38]
+
+
+
+Due to an earlier antitrust case forbidding it from entering the computer business, AT&T was required to license the operating system's source code to anyone who asked. As a result, Unix grew quickly and became widely adopted by academic institutions and businesses. In 1984, AT&T divested itself of Bell Labs; freed of the legal obligation requiring free licensing, Bell Labs began selling Unix as a proprietary product, where users were not legally allowed to modify Unix. The GNU Project, started in 1983 by Richard Stallman, had the goal of creating a "complete Unix-compatible software system" composed entirely of free software. Work began in 1984.[39] Later, in 1985, Stallman started the Free Software Foundation and wrote the GNU General Public License (GNU GPL) in 1989. By the early 1990s, many of the programs required in an operating system (such as libraries, compilers, text editors, a Unix shell, and a windowing system) were completed, although low-level elements such as device drivers, daemons, and the kernel, called GNU/Hurd, were stalled and incomplete.[40]
+Linus Torvalds has stated that if the GNU kernel had been available at the time (1991), he would not have decided to write his own.[41] Although not released until 1992, due to legal complications, development of 386BSD, from which NetBSD, OpenBSD and FreeBSD descended, predated that of Linux. Torvalds has also stated that if 386BSD had been available at the time, he probably would not have created Linux.[42]
+The Unix operating system was conceived and implemented in 1969, at AT&T's Bell Labs, in the United States by Ken Thompson, Dennis Ritchie, Douglas McIlroy, and Joe Ossanna.[37] First released in 1971, Unix was written entirely in assembly language, as was common practice at the time. In 1973 in a key, pioneering approach, it was rewritten in the C programming language by Dennis Ritchie (with the exception of some hardware and I/O routines). The availability of a high-level language implementation of Unix made its porting to different computer platforms easier.
+Due to an earlier antitrust case forbidding it from entering the computer business, AT&T was required to license the operating system's source code to anyone who asked. As a result, Unix grew quickly and became widely adopted by academic institutions and businesses. In 1984, AT&T divested itself of Bell Labs; freed of the legal obligation requiring free licensing, Bell Labs began selling Unix as a proprietary product, where users were not legally allowed to modify Unix. The GNU Project, started in 1983 by Richard Stallman, had the goal of creating a "complete Unix-compatible software system" composed entirely of free software. Work began in 1984.[39] Later, in 1985, Stallman started the Free Software Foundation and wrote the GNU General Public License (GNU GPL) in 1989. By the early 1990s, many of the programs required in an operating system (such as libraries, compilers, text editors, a Unix shell, and a windowing system) were completed, although low-level elements such as device drivers, daemons, and the kernel, called GNU/Hurd, were stalled and incomplete.[40]
+Linus Torvalds has stated that if the GNU kernel had been available at the time (1991), he would not have decided to write his own.[41] Although not released until 1992, due to legal complications, development of 386BSD, from which NetBSD, OpenBSD and FreeBSD descended, predated that of Linux. Torvalds has also stated that if 386BSD had been available at the time, he probably would not have created Linux.[42]
+if my_timer == 0:
+
+            NLP.nameF(file_name)
+
+            sys.exit()
+
+    
+ while True:
+
+        tmp_value = pyperclip.paste()
+
+        if tmp_value != recent_value:
+
+            recent_value = tmp_value
+
+            print("Value changed: %s" % str(recent_value)[:20])
+
+            with open(file_name+'.txt', '+a') as output:
+
+                try:
+
+                    # output.write("[Start]----------------"+D+" "+r+"----------------\n")
+
+                    output.write("%s\n" % str(tmp_value))
+
+                    # output.write("[End]-----------------------------------------------------------------\n\n\n")
+
+                except:
+
+                    # output.write("[Start]----------------" + D + " " + r+"----------------\n")
+
+                    output.write("%s\n" % str(tmp_value.encode('UTF-8')))
+
+                    # output.write("[End]-----------------------------------------------------------------\n\n\n")
+countdown_thread = threading.Thread(target= countdown)
+
+
+
+    countdown_thread.start()
+my_timer = time 
+
+        for x in range(my_timer):
+
+            my_timer = my_timer - 1
+
+            sleep(1)
+Linus Torvalds had wanted to call his invention "Freax", a portmanteau of "free", "freak", and "x" (as an allusion to Unix). During the start of his work on the system, some of the project's makefiles included the name "Freax" for about half a year. Torvalds had already considered the name "Linux", but initially dismissed it as too egotistical.[48]
+In order to facilitate development, the files were uploaded to the FTP server (ftp.funet.fi) of FUNET in September 1991. Ari Lemmke, Torvalds' coworker at the Helsinki University of Technology (HUT), who was one of the volunteer administrators for the FTP server at the time, did not think that "Freax" was a good name. So, he named the project "Linux" on the server without consulting Torvalds.[48] Later, however, Torvalds consented to "Linux".
+Adoption of Linux in production environments, rather than being used only by hobbyists, started to take off first in the mid-1990s in the supercomputing community, where organizations such as NASA started to replace their increasingly expensive machines with clusters of inexpensive commodity computers running Linux. Commercial use began when Dell and IBM, followed by Hewlett-Packard, started offering Linux support to escape Microsoft's monopoly in the desktop operating system market.[50]
+Linux's greatest success in the consumer market is perhaps the mobile device market, with Android being one of the most dominant operating systems on smartphones and very popular on tablets and, more recently, on wearables. Linux gaming is also on the rise with Valve showing its support for Linux and rolling out SteamOS, its own gaming-oriented Linux distribution. Linux distributions have also gained popularity with various local and national governments, such as the federal government of Brazil.[59]
+Many open source developers agree that the Linux kernel was not designed but rather evolved through natural selection. Torvalds considers that although the design of Unix served as a scaffolding, "Linux grew with a lot of mutations - and because the mutations were less than random, they were faster and more directed than alpha-particles in DNA." [63] Raymond considers Linux's revolutionary aspects to be social, not technical: before Linux complex software was designed carefully by small groups, but "Linux evolved in a completely different way. From nearly the beginning, it was rather casually hacked on by huge numbers of volunteers coordinating only through the Internet. Quality was maintained not by rigid standards or autocracy but by the naively simple strategy of releasing every week and getting feedback from
+Linux is a family of open source Unix-like operating systems based on the Linux kernel, an operating system kernel first released on September 17, 1991, by Linus Torvalds. Linux is typically packaged
+Linux.com is the go-to resource for open source professionals to learn about the latest in Linux and open source technology, careers, best practices, and ...
+b'The Linux Foundation supports the creation of sustainable open source projects and ecosystems in blockchain, deep learning, networking, and more.\r\nDeveloper\xe2\x80\x8e: \xe2\x80\x8eLinus Torvalds'

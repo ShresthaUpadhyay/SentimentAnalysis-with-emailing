@@ -1,0 +1,25 @@
+ sleep(0.1)
+print("Value changed: %s" % str(recent_value)[:20])
+name you want to keep of
+Try the new cross-platform PowerShell https://aka.ms/pscore6
+he argument is actually a floating point number, hence you can make the sleep time more precise. However, this is a little doubtful cause the actual suspension time may be less than that re
+ent salesperson in a shop - when you suspend the program the person working on it is assigned another cli
+all salesperson in the shop, and hence the program has to wait for its turn. Internally, this is more complex of course, and many ways of handling this have been introduced already.
+owever, this is a little doubtful cause the actual suspension time may be less than that requested time or arbitrarily longer. To understand why better, imagine the program being a problem or a task being handled by a different salesperson in a shop - when you suspend the program the person working on it is assigned another client immediately. But soon after
+another free salesperson takes up the task and goes on to complete it - hence the suspension time can be less. Similarly, the suspension time may be longer than requested by an arbitrary amount because of the scheduling of tasks for all salesperson in the shop, and hence the program has to wait for its turn. Internally, this is more complex of course, and many ways of handling this have been introduced already.
+tually a floating point number, hence you can make the sleep time more precise. However, this is a little doubtful cause the actual suspension time may be less than that requested time or arbitrarily longer. To understand why better, imagine the program being a problem or a task being handled by a different salesperson in a shop -
+client immediately. But soon after (sooner than the specified sleep secs), another free salesperson takes up the task and goes on to complete it - hence the suspension time can be less. Similarly, the suspension time may be longer than requested by an arbitrary amount because of the scheduling of tasks for all salesperson in the shop, and hence the program has to wait for its turn. Internally, this is more complex of course, and many ways of handling this have been introduced already.
+precise. However, this is a little doubtful cause the actual suspension time may be less than t
+on in a shop - when you suspend the program the person working on it is assigned another clien
+an requested by an arbitrary amount because of the scheduling of tasks for all salesperson in the 
+less than that requested time or arbitrarily longer. To understand why better, imagine the program being a problem or a task being handled by a different salesperson in a shop - 
+he suspension time can be less. Similarly, the suspension time may be longer than requested by an a
+at requested time or arbitrarily longer. To understand why better, imagine the program being a problem or a task being handled by a different salesperson in a shop - when you suspend the program the person working on it is assigned another client immedia
+lesperson in the shop, and hence the program has to wait for its turn. Internally, this is more complex of course, and many ways of handling this have been introduced already.
+actually a floating point number, hence you can make the sleep time more precise. However, this is a little doubtful cause the actual suspension time may be less than that requested time or arbitrarily longer. To understand why better, imagine the program being a problem or a task being handled by a different salesperson in a shop -
+mediately. But soon after (sooner than the specified sleep secs), another free salesperson takes up the task and goes on to complete it - hence the suspension time can be less.
+ctually a floating point number, hence you can make the sleep time more precise. However, this is a little doubtful cause the actual suspension time may be less than that requeste
+ requested by an arbitrary amount because of the scheduling of tasks for all salesperson in the shop, 
+at requested time or arbitrarily longer. To understand why better, imagine the program being a problem 
+nsion time can be less. Similarly, the suspension time may be longer than requested by an arbitrary 
+e program being a 
